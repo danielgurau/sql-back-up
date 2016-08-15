@@ -1,2 +1,2 @@
 echo "Hello Devel`!"
-"dev"
+echo "dev"
